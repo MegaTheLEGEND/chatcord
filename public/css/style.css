@@ -178,6 +178,12 @@ a {
 	width: 100%;
 }
 
+.form-control {
+	border-radius: 5px;
+
+	
+}
+
 .join-main .btn {
 	margin-top: 20px;
 	width: 100%;
